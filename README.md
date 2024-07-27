@@ -8,6 +8,10 @@ The project is deployed on Render. Please note that since Render is a free deplo
 
 [Live Demo](https://twitter-clone-1hvb.onrender.com/login)
 
+
+
+![MERN Stack](https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png) <!-- MERN Stack Logo -->
+
 ## Features
 
 - **Authentication**: User login and registration.
